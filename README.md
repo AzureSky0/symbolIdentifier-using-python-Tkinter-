@@ -15,6 +15,7 @@
       after selecting a symbol user can vied its details by clicking on button(info) 
     
 OutPut:
-    ![SymbolFinder 01-08-2021 17_12_00](https://user-images.githubusercontent.com/80586618/127769604-54e4e0ce-64cf-483b-aeac-7e32009f38ed.png)
-    ![SymbolFinder 01-08-2021 17_12_34](https://user-images.githubusercontent.com/80586618/127769607-14e56c79-614e-401c-ae9e-9ef6802ab433.png)
+        
+![SymbolFinder 01-08-2021 17_12_00](https://user-images.githubusercontent.com/80586618/127769604-54e4e0ce-64cf-483b-aeac-7e32009f38ed.png)
+![SymbolFinder 01-08-2021 17_12_34](https://user-images.githubusercontent.com/80586618/127769607-14e56c79-614e-401c-ae9e-9ef6802ab433.png)
 
