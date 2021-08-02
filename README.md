@@ -1,3 +1,8 @@
+#02-August-2021
+    Greek Symbols are Added
+    option to choose between Upper and lower case Symbol
+    only give name as outPut
+
 #present(02-August-2021)
 
     Greek Symbols are Added
